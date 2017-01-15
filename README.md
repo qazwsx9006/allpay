@@ -1,25 +1,4 @@
-# README
+# 歐付寶 串接 練習
+歐付寶(綠界)金流/物流串接上的一些紀錄。
+* 含綠界金流，綠界物流串接。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# allpay
